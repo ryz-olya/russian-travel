@@ -1,6 +1,9 @@
 .header{
+    min-height: 52px;
     display: flex;
     flex-direction: row;
     justify-content:space-between;
+    position: relative;
     font-family: 'Inter', Arial, sans-serif;
+    box-sizing: border-box;
 }
