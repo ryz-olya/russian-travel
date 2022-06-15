@@ -1,14 +1,16 @@
 .page{
-    justify-content: center;
-    min-width: 320;
-    min-width: 1280px;
-    background-color:#2A2C2F;
-    color: #ffffff;
-    font-weight: 400px;
+    min-width: 320px;
+    max-width: 1280px;
+    width: 100%;
+    background-color: #2A2C2F;
+    color: #FFFFFF;
+    font-weight: 400;
     min-height: 100vh;
     display: flex;
+    justify-content: center;
     flex-direction: column;
-    flex-direction: center;
+    justify-content: center;
+
     margin: 0 auto;
     padding: 28px 0 24px;
 
