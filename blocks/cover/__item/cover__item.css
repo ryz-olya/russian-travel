@@ -32,3 +32,23 @@
 .cover__item:hover::before{
     opacity: .8;
 }
+
+
+@media screen and (max-width: 1140px){
+    .cover__item {
+        min-height: 640px;
+    }
+
+ }
+ 
+@media screen and (max-width: 984px){
+    .content__section{
+       min-height: 480px;
+    }
+ }
+ @media screen and (max-width: 568px){
+    .content__section{
+       min-height: 200px;
+       padding: 10px;
+    }
+ }
