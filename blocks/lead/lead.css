@@ -4,10 +4,28 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 0 auto;
     position: relative;
-    font-family: 'Inter', Arial, sans-serif;
-    box-sizing: border-box;
     
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and (max-width: 1140px){
+    .lead{
+        width: 91%;
+    }
     
 }
+
+@media screen and (max-width: 1140px){
+    .lead{
+        width: 91%;
+    }
+    
+}
+@media screen and (max-width: 984px){
+    .lead{
+        width: 100%;
+    }
+    
+}
+    
