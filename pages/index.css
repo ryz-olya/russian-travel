@@ -22,7 +22,15 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__item/intro__item.css);
 @import url(../blocks/intro/__item/_font/intro__item_font_regular.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__page/photo-grid__page.css);
+
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__item/cover__item.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
