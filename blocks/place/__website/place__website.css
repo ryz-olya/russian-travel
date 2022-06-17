@@ -2,7 +2,7 @@
     grid-area: website;
     margin: 0;
     padding: 0;
-    width: 100%;
+    
     max-width: 456px;
     display: flex;
     flex-direction: column;
@@ -10,3 +10,11 @@
     
 
 }
+@media screen and (max-width: 568px) {
+    .place__website {
+        padding-left: 16px;
+    }
+    
+}
+    
+    

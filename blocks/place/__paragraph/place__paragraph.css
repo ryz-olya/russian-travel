@@ -10,9 +10,11 @@
     
     
 }
-@media screen and (max-width:568px) {
-    .place__paragraphs{
-      max-width: 90%;
+@media screen and (max-width: 568px) {
+    .place__paragraph{
+      padding-left: 16px;
+      padding-right: 16px;
+    
       
     }
     

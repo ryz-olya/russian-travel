@@ -4,6 +4,7 @@
     color:white;
     text-decoration: underline;
 }
+
 .place__link:hover{
     opacity: .5;
 }

@@ -1,6 +1,6 @@
 .place{
     display: grid;
-    row-gap:48px;
+    row-gap: 48px;
     column-gap: 40px;
     margin: 0;
     padding: 0;
@@ -31,6 +31,7 @@
     .place{
         display:flex;
         flex-direction: column;
+        max-width: 320px;
         
         
 
