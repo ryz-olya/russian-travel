@@ -3,8 +3,13 @@
     text-decoration: none;
     margin-left: 18px;
 }
-@media screen and (max-width: 568px){
-    .footer__link{
+
+.footer__link:hover {
+    opacity: .5;
+}
+
+@media screen and (max-width: 568px) {
+    .footer__link {
         margin-left: 0;
 
     }
