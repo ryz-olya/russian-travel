@@ -5,9 +5,19 @@
     text-align: center;
     margin: 0 auto;
     padding-bottom: 16px;
+    font-weight: 900;
+}
+@media screen and (max-width: 760px) {
+  .lead__title{
+    font-size: 70px;
+
+  }
+  
+
+  
 }
 
-  @media screen and (max-width:568px) {
+  @media screen and (max-width: 568px) {
     .lead__title {
         max-width: 288px;
         min-height: 70px;
