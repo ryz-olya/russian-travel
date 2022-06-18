@@ -1,4 +1,4 @@
-.photo-grid__page{
+.page__photo-grid {
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 48px;
@@ -6,13 +6,13 @@
     margin: 0;
 }
 @media screen and (max-width: 984px){
-    .photo-grid__page{
+    .page__photo-grid {
         padding-left: 24px;
         padding-right: 24px;
     }
 }
 @media screen and (max-width: 984px){
-    .photo-grid__page{
+    .page__photo-grid {
         padding-left: 16px;
         padding-right: 16px;
     }
