@@ -10,7 +10,7 @@
     .cover__subtitle{
         font-size: 14px;
         line-height: 16px;
-        margin: 0 0 8px;
+        margin: 8px 0 0;
         max-width: 288px;
     }
 }
