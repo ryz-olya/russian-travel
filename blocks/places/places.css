@@ -1,12 +1,11 @@
 .places{
-    display: flex;
+    display: grid;
     flex-direction: column;
     max-width: 984px;
     min-width: 320px;
     margin: 0 auto;
-   
     font-family: 'Inter', Arial, sans-serif;
-    
+    row-gap: 80px;
     
 
     
@@ -23,6 +22,7 @@
     .places{
         max-width:720px;
         margin-left: 24px;
+        row-gap: 72px;
 
     }
 
@@ -31,7 +31,9 @@
     .places{
         max-width: 320px;
         margin-left: 0;
-    
+        row-gap: 50px;
+        
+            
 
     }
 
