@@ -6,6 +6,7 @@
     font-family: 'Inter', Arial, sans-serif;
     
 }
+
 @media screen and (max-width: 568px){
     .footer{
         flex-direction: column;
